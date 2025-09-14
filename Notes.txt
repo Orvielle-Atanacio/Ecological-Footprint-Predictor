@@ -1,0 +1,12 @@
+Dataset:
+Global Ecological Footprint 2023.csv' is directly from the kaggle:https://www.kaggle.com/datasets/jainaru/global-ecological-footprint-2023
+
+The provided 'Processed_Ecological_Footprint_2023.csv' shows the srubbed and processed data.
+It is modified in a way that can be used for testing the accuracy of the system. 
+
+Testing Notes:
+If actual testing will be conducted, just change the directory in the code (for the bg picture and the dataset)
+
+Thank you and stay safe.
+
+-Orvi
