@@ -19,7 +19,7 @@ The app is built with:
 ---
 
 ## 📊 Dataset
-The model uses the [Global Ecological Footprint 2023](https://data.footprintnetwork.org/) dataset.  
+The model uses the [Global Ecological Footprint 2023](https://www.kaggle.com/datasets/jainaru/global-ecological-footprint-2023) dataset.  
 Unnecessary columns (e.g., Country, Region, etc.) are dropped, and missing values are filled with feature means.
 
 ---
@@ -27,7 +27,7 @@ Unnecessary columns (e.g., Country, Region, etc.) are dropped, and missing value
 ## 🛠️ Installation
 
 1. **Clone the repository**
-Run `git clone https://github.com/yourusername/footprint-predictor.git` and then `cd footprint-predictor`.
+Run `git clone https://github.com/Orvielle-Atanacio/footprint-predictor.git` and then `cd footprint-predictor`.
 
 Example requirements.txt:
 ```
