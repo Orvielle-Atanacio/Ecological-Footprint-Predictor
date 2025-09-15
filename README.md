@@ -39,6 +39,7 @@ pillow
 2. Prepare dataset
 
 - Place the CSV file Global Ecological Footprint 2023.csv inside the project folder.
-
 - Update the file path in the script if needed.
 
+## 📸 Footprint Predictor in Action
+![UI_Sample](https://github.com/Orvielle-Atanacio/Ecological-Footprint-Predictor/blob/main/assets/ui.png)
